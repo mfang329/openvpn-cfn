@@ -19,4 +19,4 @@ This run will take about 10mins to create all the backend resources
 - s3 buckets
 - vpc
 
-- lambda
+- lambda 
